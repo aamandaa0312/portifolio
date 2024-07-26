@@ -11,3 +11,4 @@
 ##### Olimpíadas do conhecimento(OBMEP,OBB,OBG,ONC,ONEE,OBCH,)
 ##### Iniciação Científica (PIC)
 ##### Curso LGPD (Lei Geral de Proteção de Dados Pessoais)
+##### Curso de inglês: Avançado
