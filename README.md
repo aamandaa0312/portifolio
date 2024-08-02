@@ -33,7 +33,7 @@ Certificação em Python na Cisco, demonstrando entendimento das regulamentaçõ
 * **Curso de Inglês: Avançado:**
 Competência avançada em inglês, facilitando a comunicação e entendimento de materiais técnicos e acadêmicos em um idioma global.
 
-###Experiência Adicional
+### Experiência Adicional
 
 * **Presidência do SESI Estudantil:**
 Liderança e coordenação de eventos estudantis, promovendo a integração e o desenvolvimento de habilidades de liderança e trabalho em equipe.
