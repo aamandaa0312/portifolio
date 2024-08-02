@@ -9,7 +9,7 @@
 
 ### Habilidades
 
-* Programação: Conhecimento em linguagens como Python, JavaScript e Java.
+* Programação: Conhecimento em linguagens como Python e JavaScript.
 * Desenvolvimento Web: Experiência com HTML, CSS e frameworks como React.
 * Banco de Dados: Familiaridade com SQL e noções básicas de bancos de dados relacionais.
 * Redes: Experiência com cabeamento e noções básicas de redes e segurança.
