@@ -5,7 +5,7 @@
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 ### SOBRE MIM
 
-###### Olá! Sou Amanda Rodrigues Araujo, tenho 16 anos e moro em Narandiba, SP. Atualmente estou estudando Análise e Desenvolvimento de Sistemas no SENAI e também no SESI. Tenho experiência prática com cabeamento em uma das salas do SENAI e fui presidente do SESI estudantil. Além de minha paixão por tecnologia, também tenho um grande interesse por literatura, Ciência e Matemática.
+###### Olá! Sou Amanda Rodrigues Araujo, tenho 16 anos e moro em Narandiba, SP. Atualmente estou estudando Análise e Desenvolvimento de Sistemas no SENAI e também no SESI. Tenho experiência prática com cabeamento em uma das salas do SENAI, HTML, Java Script, Python e fui presidente do SESI estudantil. Além de minha paixão por tecnologia, também tenho um grande interesse por literatura, Ciência e Matemática.
 
 ### Habilidades
 
