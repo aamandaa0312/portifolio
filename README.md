@@ -33,6 +33,9 @@ Certificação em Python na Cisco, demonstrando entendimento das regulamentaçõ
 * **Curso de Inglês: Avançado:**
 Competência avançada em inglês, facilitando a comunicação e entendimento de materiais técnicos e acadêmicos em um idioma global.
 
+* **Curso de Astronomia: USP:**
+Certificação em Astronomia, Geofísica e Ciências Atmosféricas na USP, IAG; demonstrando entendimento das apropriações do Universo Científico.
+
 ### Experiência Adicional
 
 * **Presidência do SESI Estudantil:**
