@@ -11,7 +11,6 @@ ________________________________________________________________________________
 
 * Programação: Conhecimento em linguagens como Python e JavaScript.
 * Desenvolvimento Web: Experiência com HTML, CSS e frameworks como React.
-* Banco de Dados: Familiaridade com SQL e noções básicas de bancos de dados relacionais.
 * Redes: Experiência com cabeamento e noções básicas de redes e segurança.
 * Gestão de Projetos: Experiência em liderança e organização através do SESI estudantil.
 * Comunicação: Habilidade em inglês avançado e capacidade de comunicação clara e eficaz.
